@@ -47,6 +47,8 @@ Samples are designed to illustrate scenarios you'll need to implement to build g
 |47.inspection    | Demonstrates how to use middleware to allow the Bot Framework Emulator to debug traffic into and out of the bot in addition to looking at the current state of the bot. | [View][cs#47] | [View][js#47]   |              |             |  |
 |70.styling-webchat     | This sample shows how to create a web page with custom Web Chat component.|         |          |              |  [View][es#70] |     |
 
+
+71.echo-bot             | Demonstrates how to code and send code for direct access                                 |[View][cs#2] |[View][js#2]|  |           |[View][ts#2] |
 [cs#1]:samples/csharp_dotnetcore/01.console-echo
 [cs#2]:samples/csharp_dotnetcore/02.echo-bot
 [cs#3]:samples/csharp_dotnetcore/03.welcome-user
